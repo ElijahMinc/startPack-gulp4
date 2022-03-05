@@ -1,0 +1,35 @@
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)
+  font-family: "OpenSans";
+  // адрес шрифта и тип
+  src: url("../fonts/OpenSans-Light.woff") format("truetype");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)
+  font-family: "OpenSans";
+  // адрес шрифта и тип
+  src: url("../fonts/OpenSans-Light.woff2") format("truetype");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)
+  font-family: "OpenSans";
+  // адрес шрифта и тип
+  src: url("../fonts/OpenSans-Regular.woff") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  // название шрифта(чтобы не запутаться лучше указать название папки со шрифтом)
+  font-family: "OpenSans";
+  // адрес шрифта и тип
+  src: url("../fonts/OpenSans-Regular.woff2") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}

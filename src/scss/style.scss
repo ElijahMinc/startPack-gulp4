@@ -1,0 +1,21 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background: url("@img/img.webp") 0 0 no-repeat;
+}
+
+@media (max-width: 768px) {
+  span {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  span {
+    background-color: green;
+  }
+}
+// div {
+//   width: 500px;
+//   height: 500px;
+//   background: url("@img/img.jpg") 0 0 no-repeat;
+// }
